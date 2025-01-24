@@ -1,0 +1,15 @@
+DAY 4:
+
+
+-Here we learn't about Debounce Function and it's uses,
+
+-then about how to deal with Longest Substrings,
+
+-and Grouping Anagrams.
+
+
+-After that we were taught how to replace functions,
+
+-and how to use Arrow Functions.
+
+-After learning all of these we did some problems that were assigned to us.
