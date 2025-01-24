@@ -1,0 +1,10 @@
+DAY 2:
+
+
+-We revised  the concepts of JavaScript.
+
+-Basic overview of exactly what is ReactJS and why it is used - 
+       *For instance it is used to solve the problem of code repetition which occurs due in HTML.
+       *It is only one of many Usability reasons we discussed during the class.
+
+-Discussed various CSS Style Functions which can be used.
