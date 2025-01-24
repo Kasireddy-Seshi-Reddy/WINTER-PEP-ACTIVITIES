@@ -1,0 +1,18 @@
+DAY 3:
+
+
+-Here we explored through all the basic ReactJs Functions and Statements like:
+             *If-Else Statements
+             *.log Function etc..,
+
+-And then we moved to working with various Functions and Parameters combined by passing these parameters:
+             *mergeArrays
+             *logArguments
+
+-After that learn't how to deal with names and repetitions.
+
+-And learn't about : what is a Callback Function,
+                                What is a mapArray, and 
+                                What is inner HTML.
+
+-We then applied all these concepts learn't to solve some problems.
